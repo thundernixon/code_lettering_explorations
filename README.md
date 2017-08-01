@@ -7,3 +7,8 @@ However, since these explorations already exist, they are posted here as hi-res 
 The artwork in the livefastwritecode folder is still less complete, and is merely an early study showing how it may work best to connect only a few letters horizontally (e.g. `FA`, `WR` , and `TE` ligatures), and might be possible to take some cues from the command line (a `$` in `FAST` and the inclusion of a final cursor).
 
 A big thanks to Wes Bos for the inspiration and education!
+
+===
+
+**Appache License, 2.0**
+Work in this repo may be reused, remixed, and used to create commercial works, as long as the attribution in the file `NOTICE.md` is included.
